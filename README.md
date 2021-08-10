@@ -10,7 +10,11 @@
 
 ##### download .vimrc
   
-	git clone https://github.com/Gyudong-Kim/vimrc.git ~/
+	git clone https://github.com/Gyudong-Kim/vimrc.git
+
+##### change .vimrc
+  
+	cp .vimrc ~/
 
 ##### install Plugin
   
