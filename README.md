@@ -14,7 +14,7 @@
 
 ##### change .vimrc
   
-	cp .vimrc ~/
+	cp ~/vimrc/.vimrc ~/
 
 ##### install Plugin
   
